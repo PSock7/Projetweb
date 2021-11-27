@@ -1,2 +1,2 @@
 # Projetweb
-Projet web shop
+Projet web ceci est notre projet web
